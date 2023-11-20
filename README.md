@@ -33,7 +33,7 @@ Siga estos pasos para ejecutar el proyecto:
 4. Ejecuta la aplicación:
 
    ```bash
-   npm run dev
+  npm run dev 
    ```
 
 5. Abre tu navegador y visita http://localhost:3000 para ver la aplicación en funcionamiento.

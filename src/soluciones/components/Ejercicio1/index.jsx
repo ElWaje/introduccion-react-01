@@ -1,4 +1,3 @@
-import Saludar from './Saludar'
 import TituloEjercicio from '../TituloEjercicio'
 
 export default function Ejercicio1() {
